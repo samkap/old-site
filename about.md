@@ -10,8 +10,6 @@ title: About
 
 <h3>Status Update</h3>
 
-
-
 <div class="inline-container"><p class="inline">Currently Eating: Tikka veggies and rice from Clay Pit </p>
 </div>
 <div class="inline-container">
@@ -25,6 +23,7 @@ I speak and write about design and design education. Here’s some of that:
 <div class="about-detail">
 <h3>Speaking</h3>
 <ul>
+<li><a href="http://www.sxsw.com/" class="bold">HBCU@SXSW Panel, March 11th, 2017, Austin, Texas</li>
 <li><a href="http://www.designcontentconf.com/" class="bold">Design/Content</a>, July 2016, Vancover, BC, Canada</li>
 <li><a href="http://www.frontenddesignconference.com/" class="bold">Front End Design Conference</a>, June 2016, St Pete, Florida</li>
 <li><a class="bold" href="https://www.eventbrite.com/e/refresh-columbia-november-2014-registration-14328658403">Refresh Columbia</a>, Nov 2014, Speaker, “Design Research”</li>
@@ -42,6 +41,9 @@ I speak and write about design and design education. Here’s some of that:
 “Design 1-Up”, Panel, <a href="http://www.ustream.tv/recorded/26581450" target="_blank">video</a> and <a href="http://www.samkapila.com/sharing/mcweek" target="_blank">notes</a></li>
 </ul>
 
+<h3>Press</h3>
+- [MFAs in Graphic Design (Under Southwest)](http://www.printmag.com/design-education/mfa-in-graphic-design/), Alumni list, Print Magazine
+- 
 
 <h3>Writing</h3>
 <p>Along with being a monthly contributor for <a href="http://www.creativebloq.com" class="bold">net magazine</a>'s “Focus On“ column, here is some pieces I've written:</p>
@@ -80,6 +82,7 @@ I speak and write about design and design education. Here’s some of that:
 <li><a class="bold" href="http://atxwebshow.com/2013/05/16/64-with-sam-kapila/" target="_blank">The ATX Web Show</a>, May 2013</li>
 <li><a class="bold" href="http://5by5.tv/eastwing/52" target="_blank">The East Wing</a>, Apr 2013</li>
 <li><a class="bold" href="http://5by5.tv/frequency/27" target="_blank">The Frequency</a>, Nov 2012</li>
+
 
 </ul>
 
