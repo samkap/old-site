@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Home
 home: true
+layout: default
 ---
 
 <p class="intro">
@@ -25,7 +26,7 @@ Hi! I’m Sam Kapila. I’m a designer and educator living in Austin, TX. I’m 
     <span class="meta">
 
       {{ post.date | date: site.date_format }}</span>
-  	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
+  	<a href="{{ post.url | prepend: site.baseurl | truncatewords:10 }}"><h1>{{ post.title }}</h1></a>
       <p>
 <!--       {% if post.summary %}
         {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
