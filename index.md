@@ -1,6 +1,6 @@
 ---
 title: Home
-home: true
+home: false
 layout: default
 ---
 
