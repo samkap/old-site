@@ -1,6 +1,6 @@
 ---
 title: Prince, Bowie, George Michael
-date: 2016-12-25 19:35:00 Z
+date: 2016-12-25 14:35:00 -05:00
 categories:
 - clips
 layout: post

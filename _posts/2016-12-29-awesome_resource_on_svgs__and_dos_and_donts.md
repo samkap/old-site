@@ -1,6 +1,6 @@
 ---
 title: Awesome resource on SVGs (and dos and donts)
-date: 2016-12-29 18:00:00 Z
+date: 2016-12-29 13:00:00 -05:00
 categories:
 - clips
 layout: post

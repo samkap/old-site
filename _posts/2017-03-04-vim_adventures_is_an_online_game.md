@@ -2,7 +2,7 @@
 title: VIM Adventures is an online game based on VIM&#39;s keyboard shortcuts. It&#39;s
   the &quot;Zelda meets text editing&quot; game. So come have some fun and learn some
   VIM!
-date: 2017-03-04 12:44:00 Z
+date: 2017-03-04 07:44:00 -05:00
 categories:
 - clips
 layout: post

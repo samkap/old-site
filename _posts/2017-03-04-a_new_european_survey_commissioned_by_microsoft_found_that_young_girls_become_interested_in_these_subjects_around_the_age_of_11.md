@@ -2,7 +2,7 @@
 title: A new European survey commissioned by Microsoft found that young girls become
   interested in these subjects around the age of 11 and then quickly lose interest
   when they&#39;re 15.
-date: 2017-03-04 18:14:00 Z
+date: 2017-03-04 13:14:00 -05:00
 categories:
 - clips
 layout: post

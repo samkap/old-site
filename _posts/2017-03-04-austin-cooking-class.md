@@ -1,6 +1,6 @@
 ---
 title: Austin-based cooking classes
-date: 2017-03-04 10:53:00 Z
+date: 2017-03-04 05:53:00 -05:00
 categories:
 - clips
 crosspost_to_medium: false

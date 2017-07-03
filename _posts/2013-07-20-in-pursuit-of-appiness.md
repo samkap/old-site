@@ -1,6 +1,6 @@
 ---
 title: In the Pursuit of Appiness
-date: 2013-07-20 16:02:00 Z
+date: 2013-07-20 12:02:00 -04:00
 tags:
 - productivity
 - articles

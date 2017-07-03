@@ -1,6 +1,6 @@
 ---
 title: Little Kids and their Big Dogs
-date: 2016-12-27 15:06:00 Z
+date: 2016-12-27 10:06:00 -05:00
 categories:
 - clips
 layout: post
