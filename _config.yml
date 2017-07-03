@@ -28,4 +28,3 @@ date_format: "%b %-d, %Y"
 logo-image: "/img/ampersam.svg"
 nav-breaking-point: 520px
 paginate_path: "/page-:num/"
-permalink: "/:year/:month/:day/:title.html"
