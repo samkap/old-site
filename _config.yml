@@ -1,0 +1,30 @@
+---
+title: Sam Kapila |
+timezone: America/Chicago
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: sameerakapila@gmail.com
+description: Sam Kapila is a designer and educator in Austin, TX. She writes and speaks
+  about Responsive Web Design, design strategies and research, diversity and inclusion
+  in tech, and about cooking.
+baseurl: 
+url: 
+twitter_username: samkap
+github_username: samkap
+paginate: 3
+markdown: kramdown
+theme: minima
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+date_format: "%b %-d, %Y"
+logo-image: "/img/ampersam.svg"
+nav-breaking-point: 520px
+paginate_path: "/page-:num/"
