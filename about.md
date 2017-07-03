@@ -10,10 +10,10 @@ layout: about
 
 <h3>Status Update</h3>
 
-<div class="inline-container"><p class="inline">Currently Eating: Tikka veggies and rice from Clay Pit </p>
+<div class="inline-container"><p class="inline">Currently Eating: Veggie Heaven on an Everything Bagel from Rockstar Bagels</p>
 </div>
 <div class="inline-container">
-<p class="inline">Currently Reading: My shampoo label</p>
+<p class="inline">Currently Reading: The Open Org</p>
 </div>
 ---
 
