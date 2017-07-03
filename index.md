@@ -9,6 +9,7 @@ Hi! I’m Sam Kapila. I’m a designer and educator living in Austin, TX. I’m 
 </p>
 
 </div>
+
 <div class="recent">
 <h3> Recent </h3>
 <div class="recent-posts">
